@@ -5,7 +5,6 @@ module.exports = {
 	printWidth: 110,
 	useTabs: true,
 	arrowParens: "always",
-	noBracketSpacing: false,
 	semi: true,
 	overrides: [
 		{
